@@ -1,4 +1,4 @@
-# Currency Converter
+# Conversor de Moedas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Gson](https://img.shields.io/badge/Gson-5A29E4?style=for-the-badge&logo=google&logoColor=white)
